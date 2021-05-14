@@ -22,13 +22,10 @@ release版本：1.03
 
 -----------------------------------------------------------------------------
 
-坐标系转换示例：
+转换示例：
 
-C:\Users\pengfei\Desktop\osgb2i3s_2_6\tool\osgb2i3s.exe -i D:\osgb2i3s\src\osgb2i3s\osgb2i3s\osgbTestData -o D:\osgb2i3s\src\osgb2i3s\osgb2i3s\export -n model -m 8 -t 4490
+C:\Users\Desktop\osgb2i3s_2_6\tool\osgb2i3s.exe -osgb -i D:\osgb2i3s\src\osgb2i3s\osgb2i3s\osgbTestData -o D:\osgb2i3s\src\osgb2i3s\osgb2i3s\export.slpk -m 8
 
-普通转换示例：
-
-C:\Users\pengfei\Desktop\osgb2i3s_3_2\tool\osgb2i3s.exe -i D:\osgb2i3s\src\osgb2i3s\osgb2i3s\osgbTestData -o D:\osgb2i3s\src\osgb2i3s\osgb2i3s\export -n model -m 8
 
 ****************************************************************注意***************************************************************************************************
 
